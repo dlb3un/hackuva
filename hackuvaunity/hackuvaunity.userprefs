@@ -1,10 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\spawn.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Rainy-Days\Rainy-Days\Assets\Scripts\Player\playerscript.js">
     <Files>
-      <File FileName="Assets\Scripts\buttonPress.js" Line="9" Column="2" />
-      <File FileName="Assets\spawn.js" Line="19" Column="61" />
-      <File FileName="..\..\Rainy-Days\Rainy-Days\Assets\Scripts\Player\playerscript.js" Line="15" Column="2" />
+      <File FileName="..\..\Rainy-Days\Rainy-Days\Assets\Scripts\Player\playerscript.js" Line="72" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
